@@ -19,7 +19,7 @@
         font-size: 15px;
         box-shadow: 0 2px 6px rgba(0,0,0,0.3);
       ">
-        This site is <span style="font-weight: 900;">archived</span>.
+        This site has been <span style="font-weight: 900;">archived</span>.
         Explore my new website <a href="https://realtechnerd.github.io" target="_blank" style="color: #209cee; text-decoration: underline;">here</a>.
       </div>
     `;
